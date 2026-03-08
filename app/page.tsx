@@ -73,7 +73,7 @@ export default function Home() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`http://localhost:3000/api/fetch-data`);
+        const response = await fetch(`/api/fetch-data`);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
