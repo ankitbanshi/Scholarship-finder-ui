@@ -1,0 +1,22 @@
+export const data = [
+    { name: "Global Scholars Program", amount: "$50,000", deadline: "July 2026", country: "USA", stream: "Business", level: "PG" },
+    { name: "UK Excellence Award", amount: "Full Funding", deadline: "August 2026", country: "UK", stream: "Law", level: "PG" },
+    { name: "Canadian Merit Scholarship", amount: "$30,000", deadline: "June 2026", country: "Canada", stream: "Business", level: "UG" },
+    { name: "Germany Research Grant", amount: "Full Funding", deadline: "May 2026", country: "Germany", stream: "System", level: "PhD" },
+    { name: "France Academic Award", amount: "$20,000", deadline: "April 2026", country: "USA", stream: "IR", level: "PG" },
+    { name: "STEM Innovators Grant", amount: "$40,000", deadline: "September 2026", country: "USA", stream: "System", level: "PG" },
+    { name: "Asia-Pacific Leadership Scholarship", amount: "$25,000", deadline: "October 2026", country: "UK", stream: "Business", level: "UG" },
+    { name: "Nordic Education Fund", amount: "Full Funding", deadline: "December 2026", country: "Germany", stream: "Law", level: "PhD" },
+    { name: "Australia Future Leaders Grant", amount: "$35,000", deadline: "November 2026", country: "Canada", stream: "Business", level: "PG" },
+    { name: "Japan Technology Fellowship", amount: "$28,000", deadline: "March 2026", country: "Germany", stream: "System", level: "PhD" },
+    { name: "Singapore Innovation Award", amount: "$32,000", deadline: "January 2027", country: "USA", stream: "System", level: "UG" },
+    { name: "Netherlands Research Excellence", amount: "$27,000", deadline: "February 2027", country: "Germany", stream: "IR", level: "PG" },
+    { name: "Switzerland Global Talent Scholarship", amount: "Full Funding", deadline: "May 2027", country: "UK", stream: "Law", level: "PhD" },
+    { name: "Ireland Academic Achievement Grant", amount: "$18,000", deadline: "June 2027", country: "UK", stream: "Business", level: "UG" },
+    { name: "New Zealand Discovery Scholarship", amount: "$22,000", deadline: "September 2027", country: "Canada", stream: "IR", level: "PG" },
+    { name: "South Korea Future Tech Grant", amount: "$26,000", deadline: "August 2027", country: "USA", stream: "System", level: "PhD" },
+    { name: "European Union Study Fund", amount: "$45,000", deadline: "July 2027", country: "Germany", stream: "Business", level: "PG" },
+    { name: "International Women in STEM Scholarship", amount: "$38,000", deadline: "October 2027", country: "Canada", stream: "System", level: "UG" },
+    { name: "Global AI Research Fellowship", amount: "$60,000", deadline: "April 2027", country: "USA", stream: "System", level: "PhD" },
+    { name: "NextGen Entrepreneurs Scholarship", amount: "$24,000", deadline: "November 2027", country: "UK", stream: "Business", level: "UG" }
+];
